@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ModuloMovil</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="google_app_id">667194037235</string>
+    <string name="gcm_defaultSenderId" ></string>
+</resources>

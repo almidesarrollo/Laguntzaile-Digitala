@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestGeo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Geolocalizador</string>
+    <string name="Descripcion">Hola, soy un servicio que te espia ^^ </string>
+    <string name="textobtn1">Iniciar servicio</string>
+    <string name="textobtn2">Terminar servicio</string>
+
+    <string name="title_activity_confirmacion_respuesta">ConfirmacionRespuesta</string>
+    <string name="title_activity_alerta_respuesta">AlertaRespuesta</string>
+
+    <string name="const_path_logs">/sdcard/Android/data/com.mendhak.gpslogger/files</string>
+    <string name="const_path_file_ext">.gpx</string>
+
+    <string name="const_endpoint_base">http://46.27.112.65:8080/asistencia/ws</string>
+    <string name="const_endpoint_new_issue">/droid/issues/new.issue.php</string>
+    <string name="const_endpoint_new_location">/droid/location/new.location.php</string>
+    <string name="const_endpoint_login">/login.php</string>
+</resources>

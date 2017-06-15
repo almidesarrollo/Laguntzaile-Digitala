@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="const_issue_caida">1</integer>
+    <integer name="const_issue_pulso">2</integer>
+    <integer name="const_issue_pulso_bajo">3</integer>
+    <integer name="const_issue_help">4</integer>
+</resources>
